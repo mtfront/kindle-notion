@@ -24,3 +24,8 @@ Made for [my reading notes channel](https://t.me/mtfront) because filtering and 
 8. Click the '...'->sort, add an ascending sort on 'No.' (why does stupid notion import in random order?)
 9. Notion may convert your 'Note' column to 'Type'. Simply click on the header and change property type to 'Text'
 10. Remove default unsed fields like "tags"
+
+## i18n
+Because I don't have non US kindle accounts to test with, this plugin only supports US kindle notes for now. 
+
+Feel free to submit pull request if you have one and can test it.
