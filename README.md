@@ -1,10 +1,12 @@
 # kindle-notion
 <img width="415" alt="Screen Shot 2021-04-08 at 1 04 09 AM" src="https://user-images.githubusercontent.com/5817602/113990452-53e9f780-9806-11eb-8d48-5471aaab27c6.png">
-A chrome plugin that export kindle notes to a notion compatible csv file.
+A chrome plugin that export kindle notes to a notion compatible csv file. 
 
 This plugin will convert the current selected kindle notes to a notion compatible csv file.
 
-Made for [my reading notes channel](https://t.me/mtfront) because filtering and sorting is just much more easier this way.
+Made for [my reading notes channel](https://t.me/mtfront) because filtering and sorting is just much more easier this way. 
+
+Install it at [chrome web store](https://chrome.google.com/webstore/detail/kindle-notes-exporter/ogdkdkhjpdgkaodokpammlabdaohebop).
 
 ## Output table format in Notion:
 
